@@ -13,7 +13,7 @@
 
 #mv	mv bash-backup.md archive.md	Przenoszenie i zmiana nazwy pliku.
 
-#rm	rm archive.md	Usuwanie pliku i ostrzeżenie, że operacja omija kosz.
+#rm	rm archive.md	Usuwanie pliku z kosza gagdku.
 
 #cat	cat bash.md	Wyświetlanie zawartości pliku w terminalu.
 
